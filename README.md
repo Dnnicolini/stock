@@ -22,11 +22,7 @@ This project is a Laravel-based inventory management system that uses Sail Docke
 
 **Getting Started:**
 
-1. Clone the project repository:
-
-```
-git clone https://github.com/bard-code/laravel-inventory-management.git
-```
+1. Clone the repository
 
 2. Install Docker and Docker Compose.
 
